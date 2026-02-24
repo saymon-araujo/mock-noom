@@ -41,6 +41,12 @@ module.exports = {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
         },
+        noom: {
+          teal: 'hsl(var(--noom-teal))',
+          coral: 'hsl(var(--noom-coral))',
+          yellow: 'hsl(var(--noom-yellow))',
+          pink: 'hsl(var(--noom-pink))',
+        },
       },
       borderRadius: {
         lg: 'var(--radius)',
